@@ -1,7 +1,6 @@
 <h2 align="center">👋 Hello! I'm Glu</h2>
 <p align="center">
-  📱 Contact: <a href="https://twitter.com/0xglu">Twitter</a> •
-  <a>glucrypto@protonmail.com</a>
+  📱 Contact: <a href="https://twitter.com/0xglu">Twitter</a>
   
 </p>
 
