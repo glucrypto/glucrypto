@@ -4,8 +4,8 @@
   
 </p>
 
-- 🔭 I’m currently working on [Nftyswap](https://github.com/Ecto-Finance) and [LostSoulsNFT](https://twitter.com/lostsoulsnft)
-- ✍️ View my Blog at [Mirror](https://mirror.xyz/0xglu.eth) and [](https://blog.nftyswap.org)
+- 🔭 I’m currently working on [Wondernet](https://github.com/Openspace-Protocol) and [LostSoulsNFT](https://twitter.com/lostsoulsnft)
+- ✍️ View my Blog at [Mirror](https://mirror.xyz/0xglu.eth)
 
 
 <!--START_SECTION:waka-->
