@@ -4,7 +4,7 @@
   
 </p>
 
-- 🔭 I’m currently working on [Wondernet](https://github.com/Openspace-Protocol) and [LostSoulsNFT](https://twitter.com/lostsoulsnft)
+- 🔭 I’m currently working on [Align Network](https://github.com/AlignNetwork) and [LostSoulsNFT](https://twitter.com/lostsoulsnft)
 - ✍️ View my Blog at [Mirror](https://mirror.xyz/0xglu.eth)
 
 
