@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently working on [Align Network](https://github.com/AlignNetwork) and [LostSoulsNFT](https://twitter.com/lostsoulsnft)
-- ✍️ View my Blog at [Mirror](https://mirror.xyz/0xglu.eth)
+- ✍️ View my Blog at [Mirror](https://glu.wtf)
 
 
 <!--START_SECTION:waka-->
